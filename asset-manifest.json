@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/make_movie-app.git/static/css/main.073c9b0a.css",
+    "main.js": "/make_movie-app.git/static/js/main.63bd1837.js",
+    "index.html": "/make_movie-app.git/index.html",
+    "main.073c9b0a.css.map": "/make_movie-app.git/static/css/main.073c9b0a.css.map",
+    "main.63bd1837.js.map": "/make_movie-app.git/static/js/main.63bd1837.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.63bd1837.js"
+  ]
+}
